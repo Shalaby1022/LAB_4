@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping", "LAB_4\Swapping.csproj", "{D2CB35AB-DE1A-4CC8-B910-A124429408D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMathTask", "ClassTask\MyMathTask.csproj", "{A821DD28-B9EA-4D00-8A5D-D067449FD20D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentClass", "StudentClass\StudentClass.csproj", "{345BD390-BC8C-43F7-8BA9-A85275C1CE70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2CB35AB-DE1A-4CC8-B910-A124429408D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CB35AB-DE1A-4CC8-B910-A124429408D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CB35AB-DE1A-4CC8-B910-A124429408D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CB35AB-DE1A-4CC8-B910-A124429408D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A821DD28-B9EA-4D00-8A5D-D067449FD20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A821DD28-B9EA-4D00-8A5D-D067449FD20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A821DD28-B9EA-4D00-8A5D-D067449FD20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A821DD28-B9EA-4D00-8A5D-D067449FD20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345BD390-BC8C-43F7-8BA9-A85275C1CE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345BD390-BC8C-43F7-8BA9-A85275C1CE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345BD390-BC8C-43F7-8BA9-A85275C1CE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345BD390-BC8C-43F7-8BA9-A85275C1CE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB1293B-57AB-4329-9DD9-F60E158C339C}
+	EndGlobalSection
+EndGlobal
